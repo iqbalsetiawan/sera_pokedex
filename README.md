@@ -43,10 +43,8 @@ You can try the app live at: [https://sera-pokedex.vercel.app/](https://sera-pok
 4. Run the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
-
-5. Open your browser and go to `http://localhost:3000` to see the app in action.
 
 ## Running Tests
 
